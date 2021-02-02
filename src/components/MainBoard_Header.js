@@ -9,7 +9,7 @@ const MainBoard_Img=styled.div`
   background: linear-gradient(
       to bottom,
       rgba(20, 20, 20, 0.3) 10%,
-      rgba(20, 20, 20, 1) 90%,
+      rgba(20, 20, 20, 1) 70%,
       rgba(20, 20, 20, 1)
     ),
     url(${eventPoster});
